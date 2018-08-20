@@ -1,0 +1,53 @@
+body {
+    background-color:#b7e5ff;
+    background-image: url("background.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 50%;
+    height:50%;
+    text-align:center;
+    margin:auto;
+    padding:0;
+  }
+
+    h1{
+      color: #ffff;
+    }
+    p{
+      color: #2f3542;
+    }
+    li{
+      font-size: 15;
+    }
+.Un{
+  position: fixed;
+  right: 650px;
+  top:5px;
+}
+.Q{
+  position: absolute;
+  right:5px;
+  top:685px;
+}
+.Bk{
+  position: absolute;
+  left:310px;
+  top:685px;
+}
+.Br{
+  position: absolute;
+  left:10px;
+  top:685px;
+}
+.M{
+  position: absolute;
+  right:600px;
+  top:685px;
+}
+.SI{
+  position: absolute;
+  right:290px;
+  top:685px;
+}
